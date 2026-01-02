@@ -1,4 +1,4 @@
-class Tk < Formula
+class Ticket < Formula
   desc "Minimal ticket tracking in bash"
   homepage "https://github.com/wedow/ticket"
   url "https://github.com/wedow/ticket/archive/refs/tags/v0.1.0.tar.gz"
