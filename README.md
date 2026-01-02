@@ -1,14 +1,14 @@
-# homebrew-tap
+# homebrew-tools
 
 Personal Homebrew formulas.
 
 ## Install
 
 ```bash
-brew tap wedow/tap
-brew install tk
+brew tap wedow/tools
+brew install ticket
 ```
 
 ## Formulas
 
-- **tk** - Minimal ticket tracking in bash
+- **ticket** - Minimal ticket tracking in bash
