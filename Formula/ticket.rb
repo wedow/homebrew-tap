@@ -1,8 +1,8 @@
 class Ticket < Formula
   desc "Minimal ticket tracking in bash"
   homepage "https://github.com/wedow/ticket"
-  url "https://github.com/wedow/ticket/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "970c09c052e128c3f1b8cca030ecc3bb803400c29f4a98ad705d2de6996387ec"
+  url "https://github.com/wedow/ticket/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "a44db815a1e3dee21299f56d870280cd4c01d7c7990b14ab7b7d6a5ca8b603ef"
   license "MIT"
 
   def install
